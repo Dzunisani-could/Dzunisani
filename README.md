@@ -2,7 +2,7 @@
 ### Hi, I'm Dzunisani!
 # Dzunisani Waka Mashele
 
-**Aspiring Software Engineer | WordPress Developer**  
+**Aspiring Software Engineer | Data Infrastructure**  
 📍 291 Pretorius Street, Pretoria Central, 0002  
 📞 0640203938  
 ✉️ mbatinidzuni98@gmail.com  
