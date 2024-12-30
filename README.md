@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am an aspiring Software Engineer and WordPress Developer with one year of experience in WordPress development. I also have a solid foundation in cloud infrastructure, programming, and IT support. I am passionate about building scalable software solutions and user-friendly websites while continuously learning and developing my skills in software engineering and web development.
+I am an aspiring Software Engineer and WordPress Developer with one year of experience in WordPress development. I also have a solid foundation in Data Infrastructure, programming, and IT support. I am passionate about building scalable software solutions and user-friendly websites while continuously learning and developing my skills in software engineering and web development.
 
 ---
 
