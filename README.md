@@ -18,7 +18,7 @@ I am an aspiring Software Engineer and WordPress Developer with one year of expe
 
 ## Work Experience
 
-### **IT Cloud Infrastructure Specialist**  
+### **IT Data Infrastructure Specialist**  
 **Hulumendhe Group**  
 _August 2022 - August 2023_
 
