@@ -94,4 +94,4 @@ _Class Discontinued_
 - Contribute to open-source software projects to gain real-world experience in software engineering and teamwork.
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DzunisaniHappy)](https://github.com/anuraghazra/github-readme-stats)
